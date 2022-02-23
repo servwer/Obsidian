@@ -106,6 +106,9 @@ const ChildComponent = React.memo(function ChildComponent({ count }) {
 	#### Полезны ссылки:
 
 	[React дока](https://ru.reactjs.org/docs/optimizing-performance.html)
+	
 	[Статья по оптимизации](https://blog.logrocket.com/optimizing-performance-react-application/)
+	
 	[21 метод оптимизации производительности для приложений React](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
+	
 	
