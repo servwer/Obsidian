@@ -112,4 +112,5 @@ React использует концепцию виртуального DOM, чт
 	
 	[21 метод оптимизации производительности для приложений React](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
 	
+	 [Статья на habr](https://habr.com/ru/post/495984/)
 	
