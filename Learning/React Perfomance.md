@@ -90,6 +90,22 @@ const ChildComponent = React.memo(function ChildComponent({ count }) {
 
 	С концепцией работы с окнами мы можем отображать в DOM только видимую пользователю часть. Затем при прокрутке оставшиеся элементы списка отображаются, заменяя элементы, выходящие из области просмотра. Этот метод может значительно улучшить производительность рендеринга большого списка.
 
-	Both [react-window](https://blog.logrocket.com/how-to-virtualize-large-lists-using-react-window/) and [react-virtualized are two popular windowing libraries](https://blog.logrocket.com/windowing-wars-react-virtualized-vs-react-window/) that can implement this concept.
+	[react-window](https://blog.logrocket.com/how-to-virtualize-large-lists-using-react-window/) и [react-virtualized are two popular windowing libraries](https://blog.logrocket.com/windowing-wars-react-virtualized-vs-react-window/) — две популярные оконные библиотеки, которые могут реализовать эту концепцию.
 
 5. Ленивая загрузка изображений в React
+	Чтобы оптимизировать приложение, состоящее из нескольких изображений, мы можем не отображать все изображения одновременно, чтобы сократить время загрузки страницы. При ленивой загрузке мы можем подождать, пока каждое из изображений не появится в окне просмотра, прежде чем визуализировать их в DOM.
+
+	Подобно концепции работы с окнами, упомянутой выше, отложенная загрузка изображений предотвращает создание ненужных узлов DOM, повышая производительность нашего приложения React.
+
+	[react-lazyload and react-lazy-load-image-component](https://blog.logrocket.com/the-top-choices-for-react-lazy-loading-libraries-in-2021/) — популярные библиотеки отложенной загрузки, которые можно использовать в проектах React.
+
+
+	
+	Чтобы успешно оптимизировать наше приложение React, мы должны сначала найти проблему с производительностью в нашем приложении, которую нужно исправить.
+
+	#### Полезны ссылки:
+
+	[React дока](https://ru.reactjs.org/docs/optimizing-performance.html)
+	[Статья по оптимизации](https://blog.logrocket.com/optimizing-performance-react-application/)
+	[21 метод оптимизации производительности для приложений React](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
+	
