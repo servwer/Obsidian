@@ -12,6 +12,14 @@
       "modifiers": [
         "Alt"
       ],
+      "key": "W"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
       "key": "E"
     }
   ]
