@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React Perfomance.md",
+            "file": "Тестирование React компонентов.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Perfomance.md",
+                "file": "Тестирование React компонентов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "98ee5aca5645326e",
   "lastOpenFiles": [
+    "Тестирование React компонентов.md",
     "React Perfomance.md"
   ]
 }
