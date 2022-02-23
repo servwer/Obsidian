@@ -18,16 +18,17 @@ React использует концепцию виртуального DOM, чт
 	####  Использование React.memo()
 	
 	React.memo() - это HOC используемый для обертывания чисто функционального компонента, чтобы предотвратить повторный рендеринг, если пропсы, полученные в этом компоненте, никогда не меняются.
-
+	
 	```js
-const ChildComponent = React.memo(function ChildComponent({ count }) { 
- console.log("child component is rendering"); 
- return ( 
-	<div> 
-		 <h2>This is a child component.</h2> 
-		 <h4>Count: {count}</h4> 
-	</div> 
-	); 																															});
+		const ChildComponent = React.memo(function ChildComponent({ count }) { 
+			 console.log("child component is rendering"); 
+			 return ( 
+			 <div> 
+				 <h2>This is a child component.</h2> 
+				 <h4>Count: {count}</h4> 
+			 </div> 
+			 );
+		});
 	```
 	
 	Если свойство count никогда не меняется, React пропустит рендеринг ChildComponent и повторно использует предыдущий результат рендеринга. Следовательно, улучшение производительности React.
