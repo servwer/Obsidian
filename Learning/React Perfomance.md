@@ -115,4 +115,3 @@ React использует концепцию виртуального DOM, чт
 	 [Статья на habr](https://habr.com/ru/post/495984/)
 
 	[Анализ и оптимизация React-приложений](https://habr.com/ru/company/ruvds/blog/442650/)
-	
