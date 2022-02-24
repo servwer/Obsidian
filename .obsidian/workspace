@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "3a6c2af5d52ecb6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "89072002fc1a0062",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Learning/React Perfomance.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce663dabae4214c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "522ae37725e4e44f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03b3d3b07e851be0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "430d72fb913ab20d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71a70125c00ace18",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc002997434fd5e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a15d2f9875bf4094",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning/React Perfomance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "89072002fc1a0062",
+  "lastOpenFiles": [
+    "Learning/React Perfomance.md",
+    "Learning/Тестирование React компонентов.md"
+  ]
+}
