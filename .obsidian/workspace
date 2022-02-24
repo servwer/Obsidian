@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/etrefre.md",
+            "file": "Learning/React Perfomance.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/etrefre.md",
+                "file": "Learning/React Perfomance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "89072002fc1a0062",
   "lastOpenFiles": [
-    "Inbox/etrefre.md",
     "Learning/React Perfomance.md",
-    "Learning/Тестирование React компонентов.md"
+    "Learning/Тестирование React компонентов.md",
+    "Inbox/etrefre.md"
   ]
 }
