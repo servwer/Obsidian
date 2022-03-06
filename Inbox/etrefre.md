@@ -1,1 +1,7 @@
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+https://www.youtube.com/watch?v=cgaktoUoDVQ
+
+https://www.youtube.com/watch?v=n5klioVz7FM
+
+https://www.youtube.com/c/YuliyaBagriy/videos
+
+https://www.youtube.com/watch?v=fhMZh3y36FU
