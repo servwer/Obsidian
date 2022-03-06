@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Тестирование React компонентов.md",
+            "file": "React Perfomance.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тестирование React компонентов.md",
+                "file": "React Perfomance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,8 @@
   },
   "active": "98ee5aca5645326e",
   "lastOpenFiles": [
+    "React Perfomance.md",
     "Тестирование React компонентов.md",
-    "React Perfomance.md"
+    "Excalidraw/Drawing 2022-03-06 21.57.25.excalidraw.md"
   ]
 }
