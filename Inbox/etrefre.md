@@ -12,3 +12,5 @@ https://blog.kamyshev.me/salo-selene/?utm_medium=post&utm_source=personal_site&u
 
       
 https://dev.to/
+
+https://www.typescriptlang.org/docs/handbook/2/narrowing.html
