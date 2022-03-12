@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Заметки/Virtual DOM.md",
+            "file": "Тестирование React компонентов.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Virtual DOM.md",
+                "file": "Тестирование React компонентов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,12 +97,12 @@
   },
   "active": "98ee5aca5645326e",
   "lastOpenFiles": [
+    "Тестирование React компонентов.md",
+    "собес.md",
     "Заметки/Virtual DOM.md",
     "Заметки/Синхронные и асинхронные функции.md",
     "Заметки/Филосовия React.md",
     "Заметки/Функциональное программирование.md",
-    "собес.md",
-    "Тестирование React компонентов.md",
     "Заметки/Pasted image 20220312211729.png",
     "Заметки/Pasted image 20220312211731.png",
     "React Perfomance.md",
