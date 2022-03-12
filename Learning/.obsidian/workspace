@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Заметки/Функциональное программирование.md",
+            "file": "Заметки/Филосовия React.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Функциональное программирование.md",
+                "file": "Заметки/Филосовия React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "98ee5aca5645326e",
   "lastOpenFiles": [
+    "Заметки/Филосовия React.md",
     "Заметки/Функциональное программирование.md",
     "собес.md",
     "Заметки/Синхронные и асинхронные функции.md",
@@ -104,7 +105,6 @@
     "Тестирование React компонентов.md",
     "Заметки/Pasted image 20220312211729.png",
     "Заметки/Pasted image 20220312211731.png",
-    "Заметки/Филосовия React.md",
     "React Perfomance.md",
     "Excalidraw/Drawing 2022-03-06 21.57.25.excalidraw.md"
   ]
