@@ -7,9 +7,11 @@
         "id": "69962104ed38466c",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-03-06 21.57.25.excalidraw.md"
+            "file": "Заметки/Филосовия React.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-03-06 21.57.25.excalidraw.md",
+                "file": "Заметки/Филосовия React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,11 +97,11 @@
   },
   "active": "69962104ed38466c",
   "lastOpenFiles": [
+    "Заметки/Филосовия React.md",
     "Excalidraw/Drawing 2022-03-06 21.57.25.excalidraw.md",
     "Заметки/Virtual DOM.md",
     "Заметки/Функциональное программирование.md",
     "Заметки/Синхронные и асинхронные функции.md",
-    "Заметки/Филосовия React.md",
     "Images/Pasted image 20220312211731.png",
     "Images/Pasted image 20220312211729.png",
     "[.md",
