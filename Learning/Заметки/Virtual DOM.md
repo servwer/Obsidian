@@ -7,3 +7,7 @@ VDOM решает эту проблему. Он находит элементы 
 
 Согласование - процесс когда идеальное представление UI хранится в памяти и синхронизируется в RDOM.
 ![[Pasted image 20220312211731.png]]
+
+https://www.youtube.com/watch?v=A0W2n2azH5s&t=271s
+
+https://www.youtube.com/watch?v=NPXJnKytER4
