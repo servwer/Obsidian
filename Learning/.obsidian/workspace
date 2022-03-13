@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Заметки/Синхронные и асинхронные функции.md",
+            "file": "Заметки/Virtual DOM.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Синхронные и асинхронные функции.md",
+                "file": "Заметки/Virtual DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +97,13 @@
   },
   "active": "98ee5aca5645326e",
   "lastOpenFiles": [
-    "Заметки/Синхронные и асинхронные функции.md",
-    "[.md",
-    "Заметки/Филосовия React.md",
     "Заметки/Virtual DOM.md",
+    "Заметки/Синхронные и асинхронные функции.md",
+    "Заметки/Филосовия React.md",
+    "Заметки/Функциональное программирование.md",
+    "[.md",
     "Тестирование React компонентов.md",
     "собес.md",
-    "Заметки/Функциональное программирование.md",
     "Заметки/Pasted image 20220312211729.png",
     "Заметки/Pasted image 20220312211731.png",
     "React Perfomance.md"
