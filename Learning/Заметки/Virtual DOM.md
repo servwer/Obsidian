@@ -11,3 +11,8 @@ VDOM решает эту проблему. Он находит элементы 
 https://www.youtube.com/watch?v=A0W2n2azH5s&t=271s
 
 https://www.youtube.com/watch?v=NPXJnKytER4
+
+Reconsilation(согласование) - алгоритмы которые мы называем вирутальным домом.
+
+Все начинается с node с помощью которых строится dom-дерево.
+это дерево называется current node.(хранится в памяти)

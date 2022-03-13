@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Заметки/Филосовия React.md",
+            "file": "Заметки/Virtual DOM.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Филосовия React.md",
+                "file": "Заметки/Virtual DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
   },
   "active": "69962104ed38466c",
   "lastOpenFiles": [
+    "Заметки/Virtual DOM.md",
     "Заметки/Филосовия React.md",
     "Excalidraw/Drawing 2022-03-06 21.57.25.excalidraw.md",
-    "Заметки/Virtual DOM.md",
     "Заметки/Функциональное программирование.md",
     "Заметки/Синхронные и асинхронные функции.md",
     "Images/Pasted image 20220312211731.png",
