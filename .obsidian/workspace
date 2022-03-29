@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learning/Область видимости.md",
+            "file": "Inbox/ссылки.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Область видимости.md",
+                "file": "Inbox/ссылки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,11 @@
   },
   "active": "c4a811fc861c5990",
   "lastOpenFiles": [
+    "Inbox/ссылки.md",
+    "Inbox/собес.md",
     "Learning/Область видимости.md",
     "Learning/Замыкание.md",
     "Learning/Синхронные и асинхронные функции.md",
-    "Inbox/etrefre.md",
-    "Inbox/собес.md",
     "Learning/[.md",
     "Learning/Функциональное программирование.md",
     "Learning/Филосовия React.md",
