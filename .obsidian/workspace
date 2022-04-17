@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learning/This, prototype, objects.md",
-            "mode": "preview",
+            "file": "Learning/Стек вызовов.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/This, prototype, objects.md",
+                "file": "Learning/Стек вызовов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "c4a811fc861c5990",
   "lastOpenFiles": [
+    "Learning/Стек вызовов.md",
+    "Learning/Hexlet.md",
     "Learning/This, prototype, objects.md",
     "Inbox/ссылки.md",
     "Inbox/собес.md",
@@ -96,8 +98,6 @@
     "Learning/Замыкание.md",
     "Learning/Синхронные и асинхронные функции.md",
     "Learning/[.md",
-    "Learning/Функциональное программирование.md",
-    "Learning/Филосовия React.md",
-    "Learning/Virtual DOM.md"
+    "Learning/Функциональное программирование.md"
   ]
 }
