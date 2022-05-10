@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Virtual DOM.md",
+            "file": "собес.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual DOM.md",
+                "file": "собес.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "69962104ed38466c",
   "lastOpenFiles": [
+    "собес.md",
     "Virtual DOM.md",
     "This, prototype, objects.md",
     "Pasted image 20220312211731.png.md",
@@ -105,7 +106,6 @@
     "Филосовия React.md",
     "Стек вызовов.md",
     "Область видимости.md",
-    "Заметки/Область видимости.md",
-    "Заметки/Virtual DOM.md"
+    "Заметки/Область видимости.md"
   ]
 }
