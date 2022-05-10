@@ -7,8 +7,12 @@
         "id": "69962104ed38466c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Virtual DOM.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Virtual DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,15 +97,15 @@
   },
   "active": "69962104ed38466c",
   "lastOpenFiles": [
+    "Virtual DOM.md",
+    "This, prototype, objects.md",
+    "Pasted image 20220312211731.png.md",
+    "React Perfomance.md",
+    "Hexlet.md",
+    "Филосовия React.md",
+    "Стек вызовов.md",
+    "Область видимости.md",
     "Заметки/Область видимости.md",
-    "Заметки/Virtual DOM.md",
-    "Заметки/Филосовия React.md",
-    "Excalidraw/Drawing 2022-03-06 21.57.25.excalidraw.md",
-    "Заметки/Функциональное программирование.md",
-    "Заметки/Синхронные и асинхронные функции.md",
-    "Images/Pasted image 20220312211731.png",
-    "Images/Pasted image 20220312211729.png",
-    "[.md",
-    "Тестирование React компонентов.md"
+    "Заметки/Virtual DOM.md"
   ]
 }
